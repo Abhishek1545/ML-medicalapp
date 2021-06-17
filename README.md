@@ -1,0 +1,2 @@
+# ML-medicalapp
+Diabetes predictor 
